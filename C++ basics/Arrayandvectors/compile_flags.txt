@@ -1,0 +1,10 @@
+-IC:\Program
+-I"C:\Users\Dell\Documents\cpp workspace\Arrayandvectors"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\include"
+-I"C:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include-fixed"
+-target
+x86_64-pc-windows-gnu
