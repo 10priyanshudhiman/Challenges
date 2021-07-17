@@ -1,0 +1,4 @@
+-IC:\Users\Dell\Documents\cpp workspace\moveconstructor
+-std=c++14
+-target
+
